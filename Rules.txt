@@ -2,29 +2,71 @@ Lectio Venetiarum
 
 Opening Monologue
 
-Welcome townsfolk to Basilica Santa Maria della Salute, my name is Padre Teodoro Lombardi and I have some sickening news. This evening at 9 o’clock a local spinster attended a Tarot reading, shameful I know. On her route home she was brutally murdered, she was found with her throat slit, and the cards the Moon, Death and the Three of Swords placed in her coat pocket. This is said to be death and a rather grizzly one at that, I need your help to find this murderer and prevent any further casualties. 
+Welcome townsfolk to Basilica Santa Maria della Salute, my name is Padre Teodoro Lombardi and I have some sickening news. This evening at 9 o’clock a local spinster attended a Tarot reading, shameful I know. On her route home she was brutally murdered. She was found with her throat slit, and the cards the Moon, Death and the Three of Swords placed in her coat pocket. These cards are said to symbolise death, and a rather grizzly one at that. I need your help to find this murderer and prevent any further casualties. 
+
+
 
 Gameplay
 
-Based on blood on the clock tower mixed with wolf/vampire etc and elements of dnd. There is a storyteller narrating the path of the game. 11 Other players for a maximum game consisting of 2 teams, good and evil. In a max game 3 evil roles are in play and 2 for anything lower than 9 players. The game is round based, during the day dead and alive Townsfolk may intermingle and discuss roles with other players. Once players are called to gather there will be a vote on who should be executed or not. Over half the players need to successfully vote for a player to be executed. Each player gets one nomination and the vote needs to exceed one if they want another player to be executed instead. There is only one execution per day. Each dead player gets one last vote but alive players may vote as many or as little as they want each round. Each night players will close their eyes and go to sleep, they will be tapped on the shoulder by the Padre one by one if they have a night ability to do the actions needed before closing their eyes. Be aware for some unknown reason you may not be awoken at all. The game starts during the day and continues until the murderer is executed or there are equal to or more evil then good players. Ave Maria to be played during the night. You awake in the morning to see who has died and at the end of the game the story is retold with the hidden truths and the players are given their readings.
+1 player is The Padre narrating the path of the game. 11 other players for a maximum game consisting of 2 teams, good and evil. Only 1 Judgement role will be in each game. The Padre will indicate to Judgement which role they are at night. 
+
+In a max game 3 evil roles are in play and 2 for anything lower than 9 players. 
+
+The game is round based, during the day dead and alive Townsfolk may intermingle and discuss roles with other players. 
+
+Once players are called to gather, there will be a vote on who should be executed that day (if anyone). A nomination needs to be seconded by another player.
+ 
+The Nominater then has 1 minute to explain why they want to execute that person, after which the Nominated player gets 1 minute to defend themselves. 
+
+After both players have spoken, any other player may receive time to give important information that could affect the vote. 
+
+When voting, over half the players need to successfully vote for a player to be executed. If another player is nominated after the first nomination, then the first vote needs to be beaten by 1 for that person to be executed instead.
+
+Each player gets one nomination and there is only one execution per day. 
+
+Each dead player gets one last vote but alive players may vote as many or as little as they want each round. 
+
+Each night players will close their eyes and go to sleep. They will be tapped on the shoulder by the Padre (Narrator) one by one (if they have a night ability) to do the actions needed before closing their eyes.
+
+Be aware for some unknown reason you may not be awoken at all. 
+
+The game starts during the day and continues until the murderer is executed or there are equal to or more evil then good players. 
+
+Ave Maria to be played during the night. 
+
+You awake in the morning to see who has died and at the end of the game the story is retold with the hidden truths and the players are given their readings.
+
+
 
 Characters
 
-The Townsfolk
-Justice: Is bestowed a truth
-The sun: Happiness or sadness
-The Lovers: 
-The Sun:
-The wheel of fortune: 
-The Star: Information
+The Townsfolk (Good)
+Justice: Each Night you awake to learn if the alive players on either side of you are evil (0, 1 or 2 indicated but not specified if only 1 is evil)
+
+The Sun: Starts the game knowing how many pairs of evil players there are sitting next to each other.
+
+The Lovers: At the start of the game you learn your Lover counterpart. When the first Lover dies the other dies too. If executed, the person who nominated the Lover cannot nominate or vote the next turn. If killed at night, the murderer does not kill the next night.
+
+The Wheel of Fortune: Each night you choose two players, you will learn if one of them is the murderer, one good townsfolk will register as evil.
+
+The Star: Each night you learn the role of the player who died by execution that day. Once per game you can resurrect them.
+
 Strength: Picks a character each night who cannot be killed by the murderer.
-The magician:
 
-The murderer (Judgement):
-Judge:
-Jury: 
-Executioner:
+The Magician: You start the game as good however if you die you become evil.
 
-The Servants 
-Death:
-The Moon:
+
+Judgement (Evil - The Murderer):
+Judge: If you are executed, that night you nominate a servant to become the new murderer. You may murder yourself at night and choose your servant to replace you. 
+
+Jury: Each night choose a player, they are now poisoned. Poisoned players ability’s yield false results and they register as evil. The night after that player is poisoned they die. The first time the Jury is executed the person previously poisoned becomes the Jury.
+
+Executioner: If you die and there are servants still left in the game you do not lose and continue to kill players each night. You win the game if there are equal to or more servants than townsfolk.
+
+Only one of the above will be in play as there is only one Judgement token. 
+
+
+The Servants (Evil)
+Death: Each round you may poison one player, once the round ends they are no longer poisoned. Poisoned players ability’s yield false results and they register as evil.
+
+The Moon: The player points at another player of their choice. The Padre then reveals the role of said player silently.
